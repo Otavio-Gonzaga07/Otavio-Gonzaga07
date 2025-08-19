@@ -5,7 +5,7 @@
 
   ##   👋 Sobre mim
 <p>
-  ##   👋 Sobre mim
+
 Olá! Me chamo Otávio Gonzaga, tenho 17 anos e sou estudante na ETEC Dra. Ruth Cardoso. Atualmente curso Desenvolvimento de Sistemas e sou um verdadeiro amante do conhecimento, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades na área da programação. Estou em constante evolução e apaixonado por tudo que envolve o universo da tecnologia e do desenvolvimento de software.
 </p>
 

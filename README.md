@@ -3,14 +3,15 @@
 
 
 
-
+  ##   👋 Sobre mim
 <p>
   ##   👋 Sobre mim
 Olá! Me chamo Otávio Gonzaga, tenho 17 anos e sou estudante na ETEC Dra. Ruth Cardoso. Atualmente curso Desenvolvimento de Sistemas e sou um verdadeiro amante do conhecimento, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades na área da programação. Estou em constante evolução e apaixonado por tudo que envolve o universo da tecnologia e do desenvolvimento de software.
 </p>
 
-<p>
   ## Linguagens e Tecnologias
+<p>
+
   <img title="HTML5" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img title="CSS3" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img title="JavaScript" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
